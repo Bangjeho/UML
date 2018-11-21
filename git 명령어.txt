@@ -1,0 +1,12 @@
+git pull : 깃 허브에서 불러옴
+git push: 프로젝트 파일에서 깃허브로 가져감
+git add . : 업데이트
+git commit : 주석처리
+w: 저장
+i : 내용 추가
+q : 나가기
+wq: 저장 후 나가기
+cd : 디렉토리 추가
+cd .. :디렉토리 전으로
+git clone : 깃 허브 연동
+
