@@ -12,3 +12,19 @@ git clone : 깃 허브 연동
 pwd: 현재 디렉토리 경로 확인
 
 
+순서 
+project 폴더 > UML폴더 > 우클릭 Git bash here 클릭
+
+project 폴더에서 vp켜서 작업해도 됨 단 2갠 안됨 1개만 키세요.
+
+작업 완료 후 
+
+1 > git bash 킨 후 git pull
+2 > git add . <로컬 버전 업
+3 > git commit < 어떤 거 변화 시켰는 지 주석 < i 누르고
+주석 내용 적고 esc 후 shift + ; 후 wq
+4 > git push 해서 파일 업로드 
+
+
+mergin 오류 뜰 시 카톡 
+
